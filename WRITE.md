@@ -2,17 +2,28 @@
 
 ## ...some title
 
-To provide readers with an explicit statement of what the authors aimed to achieve, we separate submissions into 6 kinds.
+Submissions are organised in sections, specifying exactly what the authors aimed to achieve. We found it useful to distinguish the following sections.
+
 
 (insert diagram from Etienne's presentation here.)
 
 ###### Reproductions of methods
-The purpose of a reproduction is to assert the outcome of a particular experimental setup. A reproduction is an account of the faithful reproduction of the original work; if at all possible, that means the same setup, the same scripts, the same software, the same stimuli and apparatus, the same kind of participants or subjects, the same kind of equipment and facilities, the same analyses, etc. This may be more easily done in some disciplines than others. This would include, for instance, the measurement of chemical reactions, with raw material that will be of the exact same composition as in the original experiment.
+
+(the method is the same)
+
+The purpose of a reproduction is to assert the outcome of a particular experimental setup. The aim is to make sure a particular method achieves a
+
+reliability
+
+A reproduction is an account of the faithful reproduction of the original work; if at all possible, that means the same setup, the same scripts, the same software, the same stimuli and apparatus, the same kind of participants or subjects, the same chemical compounds, the same kind of equipment and facilities, the same analyses, etc. This may be more easily done in some disciplines than others. This would include, for instance, the measurement of chemical reactions, with raw material that will be of the exact same composition as in the original experiment.
 
 ###### Replications of results
+
+(the result is the same)
+
 The purpose of a replication is to assert a trait or a property that may be considered as universal, within a particular context. A replication is an account of the attempt to perform a similar experiment as presented in the original paper; unlike a reproduction, the replication needs not be as faithful, as it is understood that some aspects of the original work cannot be reproduced, or actually needs to be tested differently. For instance, an experiment in linguistics on English participants, may not qualify as a reproduction if it is performed on German participants. Similarly, an experiment that relies on the use of particular piece of equipment does not qualify as a reproduction, if it is performed on a similar piece of equipment but produced by a competing manufacturer, which may be performing measurements completely differently.
 
-####### Re-analyses
+###### Re-analyses
 The purpose of a re-analysis is to assert the knowledge gained from a given dataset, either reproducing the same analyses, by means of a different methodology, or pooling different sources of data together. Not all science needs be producing new data, and we strongly encourage the recycling of data, with a view to formulating new insights.
 
 ###### Reproducibility toolkit
@@ -38,3 +49,8 @@ Whenever possible, we strongly encourage authors of replications to engage with 
 A step-by-step guide to submitting work to ReScience X is available.
 A submission must include a cover letter and a manuscript, and may include data, scripts, source code, software and images/VMs, amongst other things. Wherever applicable, authors are encouraged to provide as much detail and material to allow for the reproduction of their work—that is the faithful reproduction of the work and data.
 
+
+
+## More information
+
+* https://pkpschool.sfu.ca/courses/writing-for-publication/
