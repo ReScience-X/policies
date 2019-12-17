@@ -2,15 +2,12 @@
 
 ## Foreword
 
-This page provides guidance about preparing a submission for ReScienceX, including the types of submissions we distinguish,  key aspects that must be covered in any submission, and the structure we expect submissions and supplementary material to adhere to. ReScienceX publishes different types of articles, and our submission platform follows the [OJS submission workflow](https://docs.pkp.sfu.ca/learning-ojs/en/authoring). Authors are advised to go through the OJS documentation, and can even take [a short online training module][ojs-training], if needed.
+This page provides guidance about preparing a submission for ReScience X, including the types of submissions we distinguish,  key aspects that must be covered in any submission, and the structure we expect submissions and supplementary material to adhere to.
 
-ReScienceX covers all empirical research in all academic fields. However, 
+ReScience X is organised in Sections, and our submission platform follows the [OJS submission workflow](https://docs.pkp.sfu.ca/learning-ojs/en/authoring). Authors are advised to go through the OJS documentation, and can even take [a short online training module](https://pkpschool.sfu.ca/courses/writing-for-publication/), if needed.
 
+![OJS Editorial and Publishing Workflow](http://rescience.org/public/site/images/OJS-EditorialWorkflow.png)
 
-
-Submissions are organised in sections. Each section refer to a kind of research output we found useful to distinguish.
-
-(insert diagram from Etienne's presentation here.)
 
 ## Types of submissions
 
@@ -61,6 +58,3 @@ A submission must include a cover letter and a manuscript, and may include data,
 ## References
 
 R. D. Peng, “Reproducible research in computational science,” Science, vol. 334, no. 6060, pp. 1226–1227, 2011.
-
-[ojs-training] https://pkpschool.sfu.ca/courses/writing-for-publication/
-[ojs-submission]: https://docs.pkp.sfu.ca/learning-ojs/en/authoring
