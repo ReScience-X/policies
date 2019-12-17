@@ -2,9 +2,7 @@
 
 ## Foreword
 
-This page provides guidance about preparing a submission for ReScienceX, including the types of submissions we distinguish, the key aspects that must be covered, and the structure we expect supplementary material to follow.
-
-ReScienceX publishes different types of articles, and our submission platform follows the [OJS submission workflow][ojs-submission]. Authors are advised to go through the OJS documentation, and can even take [a short online training module][ojs-training], if needed.
+This page provides guidance about preparing a submission for ReScienceX, including the types of submissions we distinguish,  key aspects that must be covered in any submission, and the structure we expect submissions and supplementary material to adhere to. ReScienceX publishes different types of articles, and our submission platform follows the [OJS submission workflow](https://docs.pkp.sfu.ca/learning-ojs/en/authoring). Authors are advised to go through the OJS documentation, and can even take [a short online training module][ojs-training], if needed.
 
 ReScienceX covers all empirical research in all academic fields. However, 
 
