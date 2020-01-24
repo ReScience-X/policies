@@ -4,8 +4,17 @@
 
 This page provides guidance about preparing a submission for ReScience X, including the types of submissions we distinguish,  key aspects that must be covered in any submission, and the structure we expect submissions and supplementary material to adhere to.
 
-ReScience X is organised in Sections, and our submission platform follows the [OJS submission workflow](https://docs.pkp.sfu.ca/learning-ojs/en/authoring). Authors are advised to go through the OJS documentation, and can even take [a short online training module](https://pkpschool.sfu.ca/courses/writing-for-publication/), if needed.
+ReScience X is organised in Sections, and our submission platform follows the [OJS submission workflow](https://docs.pkp.sfu.ca/learning-ojs/en/authoring). Authors are advised to go through the OJS documentation, and can even take [a short online training module](https://pkpschool.sfu.ca/courses/writing-for-publication/), if needed. Submissions are reviewed openly and disclosed, and at the end of the process, editors can suggest a summary of the topic.
 
+Submissions must include a cover letter including:
+* the full reference of the original paper, including doi;
+* a URL to an OSF project, which should be used to gather the material used in the work;
+* a list of a minimum or 3 potential reviewers, with contact information;
+* an original article as a PDF, following the guidelines and conventions of the original work that is reproduced.
+
+Authors preparing a reproduction or a replication are strongly advised to liaise with the original authors, who can provide guidance
+
+&nbsp;  
 ![OJS Editorial and Publishing Workflow](http://rescience.org/public/site/images/OJS-EditorialWorkflow.png)
 
 
@@ -13,19 +22,36 @@ ReScience X is organised in Sections, and our submission platform follows the [O
 
 ### Reproductions of methods -- "The method is the same, results are, hopefully, consistent"
 
-We refer to the definition of reproducibility proposed by Peng (2011): the purpose of a reproduction is to assert the outcome of a particular experimental setup, to assert a given method achieves consistent results.
+We refer to the definition of reproducibility proposed by Peng (2011): the purpose of a reproduction is to assert the outcome of a particular experimental setup, to assert that a given method achieves consistent results.
 
 In other words, a reproduction is an account of the faithful application of the original work; if at all possible, that means the same setup, the same scripts, the same software, the same stimuli and apparatus, the same kind of participants or subjects, the same chemical compounds, the same kind of equipment and facilities, the same analyses, etc. This may be more easily done in some disciplines than others. This would include, for instance, the measurement of chemical reactions, with raw material that will be of the exact same composition as in the original experiment.
 
-Submissions should 
+Submissions should include
+* a brief summary of the original paper, and contextual information;
+* a description of the aim of reproduction, clearly specifying what aspect of the method is being reproduced and to what end;
+* a detailed description of the method: if at all possible, authors must share the raw material used, scripts, blueprints, etc;
+* a statement of the expected outcome as per original paper;
+* a detailed account of the analyses performed, and any discrepancy from the original paper;
+* a review and discussion of the results;
+* a conclusion.
 
-### Replications of results -- "The method can be different, results are exactly the same"
+### Replications of results -- "The method can be different, results are, hopefully, exactly the same"
 
 While reproducibility is considered a minimal standard to evaluate a scientific claim, replicability (of results) is often considered the ultimate standard by which a result can be trusted.
 
-The purpose of a replication is to assert a trait or a property that may be considered as universal, within a particular context. A replication is an account of the attempt to perform a similar experiment as presented in the original paper; unlike a reproduction, a replication needs not be as faithful, as it is understood that some aspects of the original work cannot be reproduced, or actually need to be tested differently. For instance, an experiment in linguistics on English participants, may not qualify as a reproduction if it is performed on German participants. Similarly, an experiment that relies on the use of particular piece of equipment does not qualify as a reproduction, if it is performed on a similar piece of equipment but produced by a competing manufacturer, which may be performing measurements completely differently.
+The purpose of a replication is to assert a trait or a property that may be considered universal, within a particular context. A replication is an account of the attempt to perform a similar experiment as presented in the original paper; unlike a reproduction, a replication needs not be as faithful, as it is understood that some aspects of the original work cannot be reproduced, or actually need to be tested differently. For instance, an experiment in linguistics on English participants, may not qualify as a reproduction if it is performed on German participants. Similarly, an experiment that relies on the use of particular piece of equipment does not qualify as a reproduction, if it is performed on a similar piece of equipment but produced by a competing manufacturer, which may be performing measurements in very different way.
+
+Submissions should include
+* a brief summary of the original paper, and contextual information;
+* a description of the aim of replication, clearly specifying what aspect of the results is replicated and to what end;
+* a detailed description of the method: if at all possible, authors must share the raw material used, scripts, blueprints, etc;
+* a statement of the expected outcome as per original paper;
+* a detailed account of the analyses performed, and any discrepancy from the original paper;
+* a review and discussion of the results;
+* a conclusion.
 
 ### Re-analyses
+
 The purpose of a re-analysis is to assert the knowledge gained from a given dataset, either reproducing the same analyses, by means of a different methodology, or pooling different sources of data together. Not all science needs be producing new data, and we strongly encourage the recycling of data, with a view to formulating new insights.
 
 ### Reproducibility toolkit
