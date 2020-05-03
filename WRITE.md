@@ -10,6 +10,7 @@ Authors planning a submission are strongly advised to contact the [ReScience X e
 
 ReScience X is organised in Sections, and our submission portal follows the [OJS submission workflow](https://docs.pkp.sfu.ca/learning-ojs/en/authoring). Authors are advised to go through the OJS documentation, and can even take [a short online training module](https://pkpschool.sfu.ca/courses/writing-for-publication/), if needed.
 
+\
 ![OJS Editorial and Publishing Workflow](http://rescience.org/public/site/images/OJS-EditorialWorkflow.png)
 
 We follow an Open Peer-Review scheme, where reviewers are identified and reviews are made public. Upon acceptance, editors can suggest a summary of the topic.
@@ -29,7 +30,7 @@ A cover letter must be using the [ReScience X Template](), and submitted as a PD
 
 The cover letter must include the following information:
 * the full names and affiliations of all authors, who must all have agreed to the submission;
-* the email address of the corresponding author;
+* the email address of the corresponding author, even though all correspondence is done through the submission portal;
 * the full reference to the original paper, including DOI if available;
 * a brief summary (500w max) of the submission;
 * a URL to an [OSF project](https://osf.io), and to its [registration](https://help.osf.io/hc/en-us/articles/360019930893) if it has been performed (preferred). This OSF project should be used to centralise access to all files, material, documents, and links to online repositories used in the work submitted;
