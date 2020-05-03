@@ -4,15 +4,13 @@
 
 This page provides guidance on how to prepare a submission for ReScience X, including the types of submissions we distinguish, key aspects and material that must be included in submissions, and the structure we expect submissions and supplementary material to adhere to.
 
-ReScience X considers original empirical research from all disciplines, including natural sciences, life sciences, social sciences, humanities and engineering. The aim of the review process is to provide actionable feedback to authors and contribute to the improvement of the work, until it meets ReScience quality standards. We focus on quality, do not base our evaluation on trends or perceived importance.
+ReScience X considers original empirical research from all disciplines, including natural sciences, life sciences, social sciences, humanities and engineering. The aim of the review process is to provide actionable feedback to authors and contribute to the improvement of the work, until it meets ReScience quality standards. We focus on quality, and do not base our evaluation on trends or perceived importance.
 
 Authors planning a submission are strongly advised to contact the [ReScience X editorial team](http://rescience.org/x/about/editorialTeam), and to liaise with the original authors, if possible, before starting work on their project. We encourage collegiate and fruitful collaboration, and hope these early interactions can strengthen the proposed work. If the original authors are not involved in the project, ReScience X editors will invite them to comment on the finalised article, upon acceptance for publication.
 
-&nbsp;
-&nbsp;
-![OJS Editorial and Publishing Workflow](http://rescience.org/public/site/images/OJS-EditorialWorkflow.png)
-
 ReScience X is organised in Sections, and our submission portal follows the [OJS submission workflow](https://docs.pkp.sfu.ca/learning-ojs/en/authoring). Authors are advised to go through the OJS documentation, and can even take [a short online training module](https://pkpschool.sfu.ca/courses/writing-for-publication/), if needed.
+
+![OJS Editorial and Publishing Workflow](http://rescience.org/public/site/images/OJS-EditorialWorkflow.png)
 
 We follow an Open Peer-Review scheme, where reviewers are identified and reviews are made public. Upon acceptance, editors can suggest a summary of the topic.
 
