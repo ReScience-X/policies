@@ -16,7 +16,7 @@ ReScience X is organised in Sections, and our submission portal follows the [OJS
 We follow an Open Peer-Review scheme, where reviewers are identified and reviews are made public. Upon acceptance, editors can suggest a summary of the topic.
 
 Submissions are made by creating an account on the [submission portal](http://rescience.org/x/about/submissions), and must include a Cover Letter and an original Research Article, both using [ReScience Templates]() and submitted as PDF files.
-$-- TODO: .yaml file in submission portal or in OSF template? --$
+<!-- TODO: .yaml file in submission portal or in OSF template? -->
 
 Submissions cannot be under review in another academic venue at the same time, but authors can disclose their work as they see fit, e.g. on social media, as a preprint, in a blog post, or at a conference. Authors retain copyright on any work submitted, and a license must be assigned prior to acceptance for publication.
 
