@@ -2,20 +2,56 @@
 
 ## Foreword
 
-This page provides guidance about preparing a submission for ReScience X, including the types of submissions we distinguish,  key aspects that must be covered in any submission, and the structure we expect submissions and supplementary material to adhere to.
+This page provides guidance on how to prepare a submission for ReScience X, including the types of submissions we distinguish, key aspects and material that must be included in submissions, and the structure we expect submissions and supplementary material to adhere to.
 
-ReScience X is organised in Sections, and our submission platform follows the [OJS submission workflow](https://docs.pkp.sfu.ca/learning-ojs/en/authoring). Authors are advised to go through the OJS documentation, and can even take [a short online training module](https://pkpschool.sfu.ca/courses/writing-for-publication/), if needed. Submissions are reviewed openly and disclosed, and at the end of the process, editors can suggest a summary of the topic.
+ReScience X considers original empirical research from all disciplines, including natural sciences, life sciences, social sciences, humanities and engineering. The aim of the review process is to provide actionable feedback to authors and contribute to the improvement of the work, until it meets ReScience quality standards.
 
-Submissions must include a cover letter including:
-* the full reference of the original paper, including doi;
-* a URL to an OSF project, which should be used to gather the material used in the work;
-* a list of a minimum or 3 potential reviewers, with contact information;
-* an original article as a PDF, following the guidelines and conventions of the original work that is reproduced.
+Authors planning a submission are strongly advised to contact the [ReScience X editorial team](http://rescience.org/x/about/editorialTeam), and to liaise with the original authors, if possible, before starting work on their project. We encourage collegiate and fruitful collaboration, and hope these early interactions can strengthen the proposed work. If the original authors are not involved in the project, ReScience X editors will invite them to comment on the finalised article, upon acceptance for publication.
 
-Authors preparing a reproduction or a replication are strongly advised to liaise with the original authors, who can provide guidance
-
-&nbsp;  
+&nbsp;
 ![OJS Editorial and Publishing Workflow](http://rescience.org/public/site/images/OJS-EditorialWorkflow.png)
+
+ReScience X is organised in Sections, and our submission portal follows the [OJS submission workflow](https://docs.pkp.sfu.ca/learning-ojs/en/authoring). Authors are advised to go through the OJS documentation, and can even take [a short online training module](https://pkpschool.sfu.ca/courses/writing-for-publication/), if needed.
+
+We follow an Open Peer-Review scheme, where reviewers are identified and reviews are made public. Upon acceptance, editors can suggest a summary of the topic.
+
+Submissions are made by creating an account on the [submission portal](http://rescience.org/x/about/submissions), and must include a Cover Letter and an original Research Article, both using [ReScience Templates]() and submitted as PDF files.
+
+Submissions cannot be under review in another academic venue at the same time, but authors can disclose their work as they see fit, e.g. on social media, as a preprint, in a blog post, or at a conference. Authors retain copyright on any work submitted, and a license must be assigned prior to acceptance for publication.
+
+Upon acceptance, submissions will be made available on the [ReScience X website](http://rescience.org/x), indexed in relevant search engines, and advertised on social media.
+
+
+## Submissions
+
+### Cover Letter
+
+A cover letter must be using the [ReScience X Template](), and submitted as a PDF on the submission portal.
+
+The cover letter must include the following information:
+* the full names and affiliations of all authors, who must all have agreed to the submission;
+* the email address of the corresponding author;
+* the full reference to the original paper, including DOI if available;
+* a brief summary (500w max) of the submission;
+* a URL to an [OSF project](https://osf.io), and to its [registration](https://help.osf.io/hc/en-us/articles/360019930893) if it has been performed (preferred). This OSF project should be used to centralise access to all files, material, documents, and links to online repositories used in the work submitted;
+* a list of at least 3 potential reviewers, with contact information, and if applicable a list of at most 3 people who should not be contacted for review.
+
+
+### Original Research Article, and supplementary material
+
+An original Research Article must be using the [ReScience X Template](), and submitted as a PDF file on the submission portal. It should follow the guidelines and conventions in the academic field of the original paper.
+
+The associated OSF project should centralise all supplementary material, raw txt/tex/docx/odf/etc files, and rendered PDF files, as well as links to online repositories hosting the material not on OSF; e.g. source code, curated repositories.
+
+A README document should contain a description of the structure of the OSF project.
+
+All supplementary material should be consolidated and curated in the accompanying OSF project, according to FAIR principles (Wilkinson et al., 2016),  and include:
+* the raw data, clearly labelled, for every single experiment;
+* the final, processed (normalised) data, clearly annotated, for every single experiment;
+* the complete list of material, hardware and software used, from collection to analysis, including version numbers and URLs to vendors and manufacturers, as well as calibration scheme and data;
+* if possible, the actual stimuli/input and scripts used to run the experiments;
+* the complete list of essential laboratory and data processing methods and protocols;
+* all the scripts used to analyse the data and produce the figures included in the Research Article, and in the supplementary material.
 
 
 ## Types of submissions
@@ -26,11 +62,16 @@ We refer to the definition of reproducibility proposed by Peng (2011): the purpo
 
 In other words, a reproduction is an account of the faithful application of the original work; if at all possible, that means the same setup, the same scripts, the same software, the same stimuli and apparatus, the same kind of participants or subjects, the same chemical compounds, the same kind of equipment and facilities, the same analyses, etc. This may be more easily done in some disciplines than others. This would include, for instance, the measurement of chemical reactions, with raw material that will be of the exact same composition as in the original experiment.
 
-Submissions should include
+The Research Article should include, and will be assessed on the following items. Any discrepancy with the original paper should be stated explicitly:
 * a brief summary of the original paper, and contextual information;
-* a description of the aim of reproduction, clearly specifying what aspect of the method is being reproduced and to what end;
-* a detailed description of the method: if at all possible, authors must share the raw material used, scripts, blueprints, etc;
-* a statement of the expected outcome as per original paper;
+* a description of the aim of the reproduction, clearly specifying what aspect of the method is being reproduced and to what end;
+* a detailed description of the method under scrutiny: authors must share the material used, scripts, blueprints, calibration scheme and data, etc, in the accompanying OSF project;
+* a statement of the expected outcome as per original paper, and the authors's hypotheses;
+* annotated experimental factors, coding and randomization schemes;
+* details of how samples were constituted (e.g. a priori method to determine sample sizes, and if no power analysis was performed then a description of stopping criteria, recruitment procedures, incentives, etc);
+* details of the experimental designs, including explicit references to files hosted in the supplementary materials;
+* inclusion and exclusion criteria;
+* whether experimenters were blind to group assignment, and outcome assessment;
 * a detailed account of the analyses performed, and any discrepancy from the original paper;
 * a review and discussion of the results;
 * a conclusion.
@@ -84,3 +125,6 @@ A submission must include a cover letter and a manuscript, and may include data,
 ## References
 
 R. D. Peng, “Reproducible research in computational science,” Science, vol. 334, no. 6060, pp. 1226–1227, 2011.
+
+Wilkinson, M. D., Dumontier, M., Aalbersberg, Ij. J., Appleton, G., Axton, M., Baak, A., Blomberg, N., Boiten, J.-W., da Silva Santos, L. B., Bourne, P. E., Bouwman, J., Brookes, A. J., Clark, T., Crosas, M., Dillo, I., Dumon, O., Edmunds, S., Evelo, C. T., Finkers, R., … Mons, B. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data, 3(1), 1–9. https://doi.org/10/bdd4
+
