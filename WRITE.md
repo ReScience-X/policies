@@ -2,9 +2,9 @@
 
 ## Foreword
 
-This page provides guidance on how to prepare a submission for ReScience X, including the types of submissions we distinguish, key aspects and material that must be included in submissions, and the structure we expect submissions and supplementary material to adhere to.
+This page provides guidance on how to prepare a submission for ReScience X, including the types of submissions we distinguish, key aspects and material that must be included in submissions, and the structure we expect submissions and supplementary material to follow.
 
-ReScience X considers original empirical research from all disciplines, including natural sciences, life sciences, social sciences, humanities and engineering. The aim of the review process is to provide actionable feedback to authors and contribute to the improvement of the work, until it meets ReScience quality standards. We focus on quality, and do not base our evaluation on trends or perceived importance.
+ReScience X considers original empirical research from all disciplines, spanning natural sciences, life sciences, social sciences, humanities and engineering. The aim of the review process is to provide actionable feedback to authors and contribute to the improvement of the work, until it meets ReScience quality standards. We focus on quality, and reviewers are instructed not to base their evaluation on trends or perceived importance.
 
 Authors planning a submission are strongly advised to contact the [ReScience X editorial team](http://rescience.org/x/about/editorialTeam), and to liaise with the original authors, if possible, before starting work on their project. We encourage collegiate and fruitful collaboration, and hope these early interactions can strengthen the proposed work. If the original authors are not involved in the project, ReScience X editors will invite them to comment on the finalised article, upon acceptance for publication.
 
@@ -16,6 +16,7 @@ ReScience X is organised in Sections, and our submission portal follows the [OJS
 We follow an Open Peer-Review scheme, where reviewers are identified and reviews are made public. Upon acceptance, editors can suggest a summary of the topic.
 
 Submissions are made by creating an account on the [submission portal](http://rescience.org/x/about/submissions), and must include a Cover Letter and an original Research Article, both using [ReScience Templates]() and submitted as PDF files.
+$-- TODO: .yaml file in submission portal or in OSF template? --$
 
 Submissions cannot be under review in another academic venue at the same time, but authors can disclose their work as they see fit, e.g. on social media, as a preprint, in a blog post, or at a conference. Authors retain copyright on any work submitted, and a license must be assigned prior to acceptance for publication.
 
