@@ -4,7 +4,9 @@
 
 This page provides guidance on how to prepare a submission for ReScience X, including the types of submissions we distinguish, key aspects and material that must be included in submissions, and the structure we expect submissions and supplementary material to follow.
 
-ReScience X considers original empirical research from all disciplines, spanning natural sciences, life sciences, social sciences, humanities and engineering. The aim of the review process is to provide actionable feedback to authors and contribute to the improvement of the work, until it meets ReScience quality standards. We focus on quality, and reviewers are instructed not to base their evaluation on trends or perceived importance.
+ReScience X considers original empirical research from all disciplines, spanning natural sciences, life sciences, social sciences, humanities and engineering. Authors working on reproducing results from published computational work are invited to submit their work to our sister journal, [ReScience C](http://rescience.github.io).
+
+The aim of the review process is to provide actionable feedback to authors and contribute to the improvement of the work, until it meets ReScience quality standards. We focus on quality, and reviewers are instructed not to base their evaluation on trends, on the perceived importance of the results submitted or that of the work reproduced.
 
 Authors planning a submission are strongly advised to contact the [ReScience X editorial team](http://rescience.org/x/about/editorialTeam), and to liaise with the original authors, if possible, before starting work on their project. We encourage collegiate and fruitful collaboration, and hope these early interactions can strengthen the proposed work. If the original authors are not involved in the project, ReScience X editors will invite them to comment on the finalised article, upon acceptance for publication.
 
@@ -13,7 +15,8 @@ ReScience X is organised in Sections, and our submission portal follows the [OJS
 \
 ![OJS Editorial and Publishing Workflow](http://rescience.org/public/site/images/OJS-EditorialWorkflow.png)
 
-We follow an Open Peer-Review scheme, where reviewers are identified and reviews are made public. Upon acceptance, editors can suggest a summary of the topic.
+We follow an Open Peer-Review scheme, where reviewers are identified and reviews are made public. Should authors feel the need to submit their work anonymously, they are invited to contact the [ReScience X editorial team](http://rescience.org/x/about/editorialTeam) as soon as possible.
+Upon acceptance for publication, editors can append a commentary, or a summary of the topic.
 
 Submissions are made by creating an account on the [submission portal](http://rescience.org/x/about/submissions), and must include a Cover Letter and an original Research Article, both using [ReScience Templates]() and submitted as PDF files.
 <!-- TODO: .yaml file in submission portal or in OSF template? -->
@@ -125,7 +128,7 @@ A submission must include a cover letter and a manuscript, and may include data,
 
 ## References
 
-R. D. Peng, “Reproducible research in computational science,” Science, vol. 334, no. 6060, pp. 1226–1227, 2011.
+Peng, R. R. (2011), Reproducible research in computational science. _Science_, 334(6060),  1226–1227. DOI:10.1126/science.1213847.
 
-Wilkinson, M. D., Dumontier, M., Aalbersberg, Ij. J., Appleton, G., Axton, M., Baak, A., Blomberg, N., Boiten, J.-W., da Silva Santos, L. B., Bourne, P. E., Bouwman, J., Brookes, A. J., Clark, T., Crosas, M., Dillo, I., Dumon, O., Edmunds, S., Evelo, C. T., Finkers, R., … Mons, B. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data, 3(1), 1–9. https://doi.org/10/bdd4
+Wilkinson, M. D., Dumontier, M., Aalbersberg, Ij. J., Appleton, G., Axton, M., Baak, A., Blomberg, N., Boiten, J.-W., da Silva Santos, L. B., Bourne, P. E., Bouwman, J., Brookes, A. J., Clark, T., Crosas, M., Dillo, I., Dumon, O., Edmunds, S., Evelo, C. T., Finkers, R., … Mons, B. (2016). The FAIR Guiding Principles for scientific data management and stewardship. _Scientific Data_, 3(1), 1–9. DOI:10.1038/sdata.2016.18
 
