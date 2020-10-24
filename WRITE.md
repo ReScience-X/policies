@@ -4,13 +4,18 @@
 
 This page provides guidance on how to prepare a submission for ReScience X, including the types of submissions we distinguish, key aspects and material that must be included in submissions, and the structure we expect submissions and supplementary material to follow.
 
-ReScience X considers original empirical research from all disciplines, spanning natural sciences, life sciences, social sciences, humanities and engineering. Authors working on reproducing results from published computational work are invited to submit their work to our sister journal, [ReScience C](http://rescience.github.io).
+ReScience X considers original empirical research from all disciplines, spanning natural sciences, life sciences, social sciences, humanities and engineering.
+Authors working on reproducing results from published computational work are invited to submit their work to our sister journal, [ReScience C](http://rescience.github.io).
 
-The aim of the review process is to provide actionable feedback to authors and contribute to the improvement of the work, until it meets ReScience quality standards. We focus on quality, and reviewers are instructed not to base their evaluation on trends, on the perceived importance of the results submitted or that of the work reproduced.
+The aim of the review process is to provide actionable feedback to authors, and contribute to the improvement of the work, until it meets ReScience quality standards.
+We focus on quality, and reviewers are instructed not to base their evaluation on trends, on the perceived importance of the results submitted or that of the work reproduced.
 
-Authors planning a submission are strongly advised to contact the [ReScience X editorial team](http://rescience.org/x/about/editorialTeam), and to liaise with the original authors, if possible, before starting work on their project. We encourage collegiate and fruitful collaboration, and hope these early interactions can strengthen the proposed work. If the original authors are not involved in the project, ReScience X editors will invite them to comment on the finalised article, upon acceptance for publication.
+Authors planning a submission are strongly advised to contact the [ReScience X editorial team](http://rescience.org/x/about/editorialTeam), and to liaise with the original authors, if possible, before starting work on their project.
+We encourage collegiate and fruitful collaboration, and hope these early interactions can strengthen the proposed work.
+If the original authors are not involved in the project, ReScience X editors will invite them to comment on the finalised article, upon acceptance for publication.
 
-ReScience X is organised in Sections, and our submission portal follows the [OJS submission workflow](https://docs.pkp.sfu.ca/learning-ojs/en/authoring). Authors are advised to go through the OJS documentation, and can even take [a short online training module](https://pkpschool.sfu.ca/courses/writing-for-publication/), if needed.
+ReScience X is organised in Sections, and our submission portal follows the [OJS submission workflow](https://docs.pkp.sfu.ca/learning-ojs/en/authoring).
+Authors are advised to go through the OJS documentation, and can even take [a short online training module](https://pkpschool.sfu.ca/courses/writing-for-publication/), if needed.
 
 \
 ![OJS Editorial and Publishing Workflow](http://rescience.org/public/site/images/OJS-EditorialWorkflow.png)
@@ -34,11 +39,12 @@ A cover letter must be using the [ReScience X Template](), and submitted as a PD
 
 The cover letter must include the following information:
 * the full names and affiliations of all authors, who must all have agreed to the submission;
-* the email address of the corresponding author, even though all correspondence is done through the submission portal;
+<!-- TODO: establish CREDIT for all authors -->
+* the email address of the corresponding author; this information is displayed on every submission, and all communication between the corresponding author and ReScience X Editorial Board is done through the submission portal.
 * the full reference to the original paper, including DOI if available;
 * a brief summary (500w max) of the submission;
 * a URL to an [OSF project](https://osf.io), and to its [registration](https://help.osf.io/hc/en-us/articles/360019930893) if it has been performed (preferred). This OSF project should be used to centralise access to all files, material, documents, and links to online repositories used in the work submitted;
-* a list of at least 3 potential reviewers, with contact information, and if applicable a list of at most 3 people who should not be contacted for review.
+* a list of at least 3 potential reviewers, with contact information and a statement , and if applicable a list of at most 3 people who should not be contacted for review.
 
 
 ### Original Research Article, and supplementary material
