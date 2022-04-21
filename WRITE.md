@@ -1,3 +1,8 @@
+<!--
+* Title: ReScience X Writing Guidelines
+* Copyright: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+* Notes: TODO in text.
+-->
 # Writing guidelines
 
 ## Foreword
@@ -8,7 +13,7 @@ ReScience X considers original empirical research from all disciplines, spanning
 Authors working on reproducing results from published computational work are invited to submit their work to our sister journal, [ReScience C](http://rescience.github.io).
 
 The aim of the review process is to provide actionable feedback to authors, and contribute to the improvement of the work, until it meets ReScience quality standards.
-We focus on quality, and reviewers are instructed not to base their evaluation on trends, on the perceived importance of the results submitted or that of the work reproduced.
+We focus on quality, and reviewers are instructed not to base their evaluation on trends, novelty, or on the perceived importance of the results submitted or that of the work reproduced.
 
 Authors planning a submission are strongly advised to contact the [ReScience X editorial team](http://rescience.org/x/about/editorialTeam), and to liaise with the original authors, if possible, before starting work on their project.
 We encourage collegiate and fruitful collaboration, and hope these early interactions can strengthen the proposed work.
@@ -20,13 +25,12 @@ Authors are advised to go through the OJS documentation, and can even take [a sh
 \
 ![OJS Editorial and Publishing Workflow](http://rescience.org/public/site/images/OJS-EditorialWorkflow.png)
 
-We follow an Open Peer-Review scheme, where reviewers are identified and reviews are made public. Should authors feel the need to submit their work anonymously, they are invited to contact the [ReScience X editorial team](http://rescience.org/x/about/editorialTeam) as soon as possible.
-Upon acceptance for publication, editors can append a commentary, or a summary of the topic.
+We follow an opt-out Open Peer-Review scheme, where reviewers are identified and reviews are made public, unless agreed with the editor. Should authors feel the need to submit their work anonymously, they are invited to contact the [ReScience X editorial team](http://rescience.org/x/about/editorialTeam) as soon as possible.
+Upon acceptance for publication, editors can append a commentary, or a summary of the topic, and the authors of the original work may be invited to comment.
 
-Submissions are made by creating an account on the [submission portal](http://rescience.org/x/about/submissions), and must include a Cover Letter and an original Research Article, both using [ReScience Templates]() and submitted as PDF files.
-<!-- TODO: .yaml file in submission portal or in OSF template? -->
+Submissions are made by creating an account on the [submission portal](http://rescience.org/x/about/submissions), and must include a Cover Letter and an original Research Article, using [ReScience Templates](https://github.com/ReScience-X/policies/tree/master/templates) and submitted as both source (Open Office, Microsoft Word, LaTeX) and PDF files.
 
-Submissions cannot be under review in another academic venue at the same time, but authors can disclose their work as they see fit, e.g. on social media, as a preprint, in a blog post, or at a conference. Authors retain copyright on any work submitted, and a license must be assigned prior to acceptance for publication.
+Submissions cannot be under review in another academic venue at the same time, but authors can disclose their work as they see fit, e.g. on social media, as a preprint, in a blog post, or at a conference. Authors retain copyright on any work submitted, and a license must be assigned prior to acceptance for publication. [CC-BY 4](https://creativecommons.org/licenses/by/4.0/) is preferred. Authors grant full rights to ReScience X to publish, distribute and promote their work.
 
 Upon acceptance, submissions will be made available on the [ReScience X website](http://rescience.org/x), indexed in relevant search engines, and advertised on social media.
 
@@ -35,7 +39,7 @@ Upon acceptance, submissions will be made available on the [ReScience X website]
 
 ### Cover Letter
 
-A cover letter must be using the [ReScience X Template](), and submitted as a PDF on the submission portal.
+A cover letter must accompany a submission, using the [ReScience X Template](https://github.com/ReScience-X/policies/tree/master/templates), and submitted as a PDF on the submission portal.
 
 The cover letter must include the following information:
 * the full names and affiliations of all authors, who must all have agreed to the submission;
@@ -49,9 +53,9 @@ The cover letter must include the following information:
 
 ### Original Research Article, and supplementary material
 
-An original Research Article must be using the [ReScience X Template](), and submitted as a PDF file on the submission portal. It should follow the guidelines and conventions in the academic field of the original paper.
+An original Research Article must be using the [ReScience X Template](https://github.com/ReScience-X/policies/tree/master/templates), and submitted as a PDF file on the submission portal. It should follow the guidelines and conventions in the academic field of the original paper.
 
-The associated OSF project should centralise all supplementary material, raw txt/tex/docx/odf/etc files, and rendered PDF files, as well as links to online repositories hosting the material not on OSF; e.g. source code, curated repositories.
+The associated OSF project should centralise all supplementary material, raw txt/tex/docx/odf/etc files, and rendered PDF files, as well as links to online repositories hosting the material not on OSF; e.g. source code, curated repositories. Once accepted for publication, a submission will be copy-edited and relevant links added to the finalised PDF article, before indexation.
 
 A README document should contain a description of the structure of the OSF project.
 
